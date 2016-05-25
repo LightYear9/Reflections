@@ -1,1 +1,5 @@
-ese
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, it moves to that repository where the files are. You initialize a repository so you can be more specific.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The repository is where code is stored while the stageing area is where files can be put in individually. Working directory is all the files in place. staging area only changes what we want to change, so it doesn't get too confusing.
