@@ -2,4 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 --You'd use a remote repository when you want to collaborate with other people or to show your progress to others who are keeping track
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-Having the github hold onto the files makes it easier search through commits without typing.
+--Having the github hold onto the files makes it easier search through commits without typing.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+---We would use forks when we want to transfer someone's repository via github to github. Clones take github repositories and put them in the local, and branches are different paths within the local we can change between or merge together.
